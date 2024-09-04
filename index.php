@@ -1,8 +1,7 @@
 <?php 
-require_once  __DIR__ . '/Dog_product.php';
-require_once  __DIR__ . '/Cat_product.php';
-require_once  __DIR__ . '/db_products.php';
-
+require_once __DIR__ . '/Dog_product.php';
+require_once __DIR__ . '/Cat_product..php';
+require_once __DIR__ . '/db_products.php'
 
 
 ?>
