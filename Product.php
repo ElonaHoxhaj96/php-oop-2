@@ -7,7 +7,7 @@ class Product{
     public $description;
     public $consumer;
 
-    public function __construct(string $_name, string $_category, float $_price, string $_description, Consumer $_consumer)
+    public function __construct(string $_name, string $_category, $_price, string $_description, Consumer $_consumer,)
     {
         $this->name = $_name;
         $this->category= $_category;

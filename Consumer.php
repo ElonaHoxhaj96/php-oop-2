@@ -2,13 +2,13 @@
 
 class Consumer {
     public $animal;
-    public $age;
+    public $size;
     public $weight;
 
-    public function __construct($_animal, $_age, $_weight)
+    public function __construct($_animal, $_size, $_weight)
     {
         $this->animal = $_animal;
-        $this->age = $_age;
+        $this->size = $_size;
         $this->weight = $_weight;
       
     }
